@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import Userlist from './Pages/userlist';
-import EditUser from './Pages/editlist';
+import Userlist from './Pages/Userlist';
+import EditUser from './Pages/Editlist';
 import './App.css';
 
 function App() {
