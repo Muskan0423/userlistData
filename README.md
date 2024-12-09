@@ -10,4 +10,10 @@ Currently, two official plugins are available:
 
 # Git Repo #
 
-Clone the repo-
+Clone the repo-"https://github.com/Muskan0423/userlistData.git"
+
+
+cd .\my-project\
+npm install
+npm run dev 
+
